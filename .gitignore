@@ -16,3 +16,9 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Large Bulldozer datasets
+bdozer-prize-prediction-project/data/bluebook-for-bulldozers/train_tmp.csv
+bdozer-prize-prediction-project/data/bluebook-for-bulldozers/train_tmp1.csv
+bdozer-prize-prediction-project/data/bluebook-for-bulldozers/Train.csv
+bdozer-prize-prediction-project/data/bluebook-for-bulldozers/TrainAndValid.csv
